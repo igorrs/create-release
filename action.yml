@@ -1,4 +1,4 @@
-name: 'Create a Release'
+name: 'Create a release in GitHub'
 description: 'Create a release for a tag in your repository'
 author: 'GitHub'
 inputs:
