@@ -1,21 +1,6 @@
 # GitHub Action - Releases API
 
-**Please note:** This repository is currently unmaintained by a team of developers at GitHub. The 
-repository is here and you can use it as an example, or in Actions. However please be aware that 
-we are not going to be updating issues or pull requests on this repository.
-
-**Maintained Actions:**
-* [elgohr/Github-Release-Action](https://github.com/elgohr/Github-Release-Action)
-* [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases)
-* [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
-* [ncipollo/release-action](https://github.com/ncipollo/release-action)
-
-
-To reflect this state we’ve marked this repository as Archived.
-
-If you are having an issue or question about GitHub Actions then please [contact customer support](https://help.github.com/en/articles/about-github-actions#contacting-support).
-
-If you have found a security issue [please submit it here](https://hackerone.com/github).
+This is a fork from https://github.com/actions/create-release
 
 ---
 
