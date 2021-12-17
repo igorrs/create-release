@@ -14,12 +14,13 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 ## Submitting a pull request
 
 1. [Fork][fork] and clone the repository
-2. Configure and install the dependencies: `npm install`
-3. Make sure the tests pass on your machine: `npm run test`
-4. Create a new branch: `git checkout -b my-branch-name`
-5. Make your change, add tests, and make sure the tests still pass
-6. Push to your fork and [submit a pull request][pr]
-7. Pat your self on the back and wait for your pull request to be reviewed and merged.
+1. Make sure you have the correct Node.js version (check `.nvmrc`). If you use `nvm`, just run `nvm install && nvm use`.
+3. Configure and install the dependencies: `npm install`
+4. Make sure the tests pass on your machine: `npm run test`
+5. Create a new branch: `git checkout -b my-branch-name`
+6. Make your change, add tests, and make sure the tests still pass
+7. Push to your fork and [submit a pull request][pr]
+8. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
